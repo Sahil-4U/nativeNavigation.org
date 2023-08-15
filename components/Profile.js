@@ -8,6 +8,7 @@ const Profile = ({ navigation, route }) => {
             <Text>Profile</Text>
             <Text>Post Id:{post.id}</Text>
             <Text>Post :{post.title}</Text>
+            <Text>we end here</Text>
 
             <Button
                 title='Click to change'
